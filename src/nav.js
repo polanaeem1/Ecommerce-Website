@@ -61,7 +61,7 @@ const Nav = (props) => {
           <div className="nav">
             <ul>
               <li>
-                <Link to="/Ecommerce-Website" className="link">
+                <Link to="/" className="link">
                   Home
                 </Link>
               </li>

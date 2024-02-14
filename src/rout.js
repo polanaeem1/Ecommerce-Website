@@ -20,7 +20,7 @@ const Rout = ({
     <>
       <Routes>
         <Route
-          path="/Ecommerce-Website"
+          path="/"
           element={
             <Home
               detail={detail}
