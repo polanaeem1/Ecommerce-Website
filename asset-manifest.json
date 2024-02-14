@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.b81c51b4.css",
-    "main.js": "/static/js/main.dce43887.js",
-    "static/js/592.3db8e50c.chunk.js": "/static/js/592.3db8e50c.chunk.js",
-    "static/media/cpuheat.png": "/static/media/cpuheat.05f6e73a564dcca70d16.png",
-    "static/media/headphone.png": "/static/media/headphone.bf25015e535506310ba6.png",
-    "static/media/mobile.png": "/static/media/mobile.fc77d8d5a264aaf641d1.png",
-    "static/media/smartwatch.png": "/static/media/smartwatch.b6d5d034d20824a5245f.png",
-    "static/media/tablet.png": "/static/media/tablet.17ebe7eb7bae7b6c8a4e.png",
-    "index.html": "/index.html",
-    "main.b81c51b4.css.map": "/static/css/main.b81c51b4.css.map",
-    "main.dce43887.js.map": "/static/js/main.dce43887.js.map",
-    "592.3db8e50c.chunk.js.map": "/static/js/592.3db8e50c.chunk.js.map"
+    "main.css": "/Ecommerce-Website/static/css/main.b81c51b4.css",
+    "main.js": "/Ecommerce-Website/static/js/main.5ec23221.js",
+    "static/js/592.3db8e50c.chunk.js": "/Ecommerce-Website/static/js/592.3db8e50c.chunk.js",
+    "static/media/cpuheat.png": "/Ecommerce-Website/static/media/cpuheat.05f6e73a564dcca70d16.png",
+    "static/media/headphone.png": "/Ecommerce-Website/static/media/headphone.bf25015e535506310ba6.png",
+    "static/media/mobile.png": "/Ecommerce-Website/static/media/mobile.fc77d8d5a264aaf641d1.png",
+    "static/media/smartwatch.png": "/Ecommerce-Website/static/media/smartwatch.b6d5d034d20824a5245f.png",
+    "static/media/tablet.png": "/Ecommerce-Website/static/media/tablet.17ebe7eb7bae7b6c8a4e.png",
+    "index.html": "/Ecommerce-Website/index.html",
+    "main.b81c51b4.css.map": "/Ecommerce-Website/static/css/main.b81c51b4.css.map",
+    "main.5ec23221.js.map": "/Ecommerce-Website/static/js/main.5ec23221.js.map",
+    "592.3db8e50c.chunk.js.map": "/Ecommerce-Website/static/js/592.3db8e50c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81c51b4.css",
-    "static/js/main.dce43887.js"
+    "static/js/main.5ec23221.js"
   ]
 }
