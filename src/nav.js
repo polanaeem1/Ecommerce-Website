@@ -46,7 +46,7 @@ const Nav = (props) => {
               </div>
             )}
             <div className="second_icon">
-              <Link to="/" className="link">
+              <Link to="/Ecommerce-Website/" className="link">
                 <AiOutlineHeart />
               </Link>
               <Link to="/cart" className="link">
@@ -61,7 +61,7 @@ const Nav = (props) => {
           <div className="nav">
             <ul>
               <li>
-                <Link to="/" className="link">
+                <Link to="/Ecommerce-Website/" className="link">
                   Home
                 </Link>
               </li>
