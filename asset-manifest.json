@@ -1,20 +1,28 @@
 {
   "files": {
     "main.css": "/Ecommerce-Website/static/css/main.b81c51b4.css",
-    "main.js": "/Ecommerce-Website/static/js/main.5ec23221.js",
-    "static/js/592.3db8e50c.chunk.js": "/Ecommerce-Website/static/js/592.3db8e50c.chunk.js",
+    "main.js": "/Ecommerce-Website/static/js/main.e1fb4ee1.js",
+    "static/js/592.fb1fdf8a.chunk.js": "/Ecommerce-Website/static/js/592.fb1fdf8a.chunk.js",
     "static/media/cpuheat.png": "/Ecommerce-Website/static/media/cpuheat.05f6e73a564dcca70d16.png",
     "static/media/headphone.png": "/Ecommerce-Website/static/media/headphone.bf25015e535506310ba6.png",
     "static/media/mobile.png": "/Ecommerce-Website/static/media/mobile.fc77d8d5a264aaf641d1.png",
     "static/media/smartwatch.png": "/Ecommerce-Website/static/media/smartwatch.b6d5d034d20824a5245f.png",
+    "static/media/p3.jpg": "/Ecommerce-Website/static/media/p3.5bbb46456f8543de6a98.jpg",
     "static/media/tablet.png": "/Ecommerce-Website/static/media/tablet.17ebe7eb7bae7b6c8a4e.png",
+    "static/media/p2.jpg": "/Ecommerce-Website/static/media/p2.958ac284a014f04a9483.jpg",
+    "static/media/p4.jpg": "/Ecommerce-Website/static/media/p4.602e1730a3aed2707ca0.jpg",
+    "static/media/p0.jpg": "/Ecommerce-Website/static/media/p0.8b9655b4cbedf8dba318.jpg",
+    "static/media/p1.jpg": "/Ecommerce-Website/static/media/p1.518e9fdd3015ac843464.jpg",
+    "static/media/p5.jpg": "/Ecommerce-Website/static/media/p5.4b72081cb31d87610c7c.jpg",
+    "static/media/p6.jpg": "/Ecommerce-Website/static/media/p6.7884770c9ecd9b029515.jpg",
+    "static/media/p7.jpg": "/Ecommerce-Website/static/media/p7.de2545d0c89e2c819ac7.jpg",
     "index.html": "/Ecommerce-Website/index.html",
     "main.b81c51b4.css.map": "/Ecommerce-Website/static/css/main.b81c51b4.css.map",
-    "main.5ec23221.js.map": "/Ecommerce-Website/static/js/main.5ec23221.js.map",
-    "592.3db8e50c.chunk.js.map": "/Ecommerce-Website/static/js/592.3db8e50c.chunk.js.map"
+    "main.e1fb4ee1.js.map": "/Ecommerce-Website/static/js/main.e1fb4ee1.js.map",
+    "592.fb1fdf8a.chunk.js.map": "/Ecommerce-Website/static/js/592.fb1fdf8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b81c51b4.css",
-    "static/js/main.5ec23221.js"
+    "static/js/main.e1fb4ee1.js"
   ]
 }
