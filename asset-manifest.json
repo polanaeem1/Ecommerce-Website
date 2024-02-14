@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ecommerce-Website/static/css/main.b81c51b4.css",
+    "main.js": "/Ecommerce-Website/static/js/main.b69b3606.js",
+    "static/js/592.3db8e50c.chunk.js": "/Ecommerce-Website/static/js/592.3db8e50c.chunk.js",
+    "static/media/cpuheat.png": "/Ecommerce-Website/static/media/cpuheat.05f6e73a564dcca70d16.png",
+    "static/media/headphone.png": "/Ecommerce-Website/static/media/headphone.bf25015e535506310ba6.png",
+    "static/media/mobile.png": "/Ecommerce-Website/static/media/mobile.fc77d8d5a264aaf641d1.png",
+    "static/media/smartwatch.png": "/Ecommerce-Website/static/media/smartwatch.b6d5d034d20824a5245f.png",
+    "static/media/tablet.png": "/Ecommerce-Website/static/media/tablet.17ebe7eb7bae7b6c8a4e.png",
+    "index.html": "/Ecommerce-Website/index.html",
+    "main.b81c51b4.css.map": "/Ecommerce-Website/static/css/main.b81c51b4.css.map",
+    "main.b69b3606.js.map": "/Ecommerce-Website/static/js/main.b69b3606.js.map",
+    "592.3db8e50c.chunk.js.map": "/Ecommerce-Website/static/js/592.3db8e50c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b81c51b4.css",
+    "static/js/main.b69b3606.js"
+  ]
+}
