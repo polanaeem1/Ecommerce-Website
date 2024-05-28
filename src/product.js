@@ -85,7 +85,7 @@ const Product = ({
                       <div className="img_box">
                         <img src={e.Img} alt={e.Title}></img>
                         <div className="icon">
-                          {isAuthenticated ? (
+                          {true ? (
                             <li onClick={() => addtocart(e)}>
                               <AiOutlineShoppingCart />
                             </li>
